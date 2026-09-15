@@ -1,51 +1,60 @@
-# python-employee-management-system
-Employee Management System built with Python and Tkinter
-
 # Employee Management System
 
-This is a simple **Employee Management System** made with **Python and Tkinter**.
+A simple Employee Management System built with **Python and Tkinter**.
 
-I created this project to practice Python programming, GUI development, classes, functions, and basic CRUD operations.
-
-## What I Learned
-
-* Python classes and objects
-* Tkinter GUI
-* Buttons, labels, and input fields
-* Tkinter Treeview
-* Functions and event handling
-* Lists and dictionaries
-* Basic input validation
-* CRUD operations
-* Using UUID to create unique employee IDs
+I created this project while learning Python to practice GUI development, classes, functions, and basic CRUD operations.
 
 ## Features
 
 * Add employee
 * Update employee
 * Delete employee
-* View employee information
+* View employee records
 * Salary validation
-* Select employee from the table
+* Unique employee ID
 
-## Technologies
+## Technologies Used
 
 * Python
 * Tkinter
 * Jupyter Notebook
 
-## Note
+## What I Learned
 
-This is a learning project. Employee data is stored temporarily while the program is running.
-
-## Future Improvements
-
-I plan to improve this project by adding a database, search functionality, and better GUI design.
+* Creating GUI applications with Tkinter
+* Using Python classes and objects
+* Working with functions and events
+* Using lists and dictionaries
+* Basic input validation
+* Implementing CRUD operations
+* Using UUID for unique IDs
 
 ## Screenshots
 
 ### Dashboard
+
 ![Dashboard](screenshots/dashboard.png)
 
 ### Employee Added
+
 ![Employee Added](screenshots/employee_added.png)
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open `employee_management_system.py`.
+3. Run the Python file.
+
+## Note
+
+This is a learning project. Employee data is stored temporarily in memory and will be lost when the application is closed.
+
+## Future Improvements
+
+* Add a database
+* Add employee search
+* Improve input validation
+* Improve GUI design
+* Add login functionality
+
+
