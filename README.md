@@ -41,3 +41,11 @@ This is a learning project. Employee data is stored temporarily while the progra
 ## Future Improvements
 
 I plan to improve this project by adding a database, search functionality, and better GUI design.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Employee Added
+![Employee Added](screenshots/employee_added.png)
